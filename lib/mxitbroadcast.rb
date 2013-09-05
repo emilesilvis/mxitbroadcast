@@ -1,0 +1,1 @@
+require_relative 'mxitbroadcast/mxit_api.rb'
